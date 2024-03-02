@@ -1,0 +1,1058 @@
+repo_name: 2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project
+report_id: b4099cb7c92d91dd05b2b970df1e735a
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:15:59+00:00'
+requested_by: 2lambda123
+provider: github
+branch: master
+detected_tools_count: 90
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project
+  detection_source: Repo Metadata
+- name: Hack
+  description: A programming language for HHVM that interoperates seamlessly with
+    PHP
+  website_url: http://hacklang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1208/download.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project
+  detection_source: Repo Metadata
+- name: PHP
+  description: A popular general-purpose scripting language that is especially suited
+    to web development
+  website_url: http://www.php.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project
+  detection_source: Repo Metadata
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/_/chat/DataBase/chat.sql
+  detection_source: _/chat/DataBase/chat.sql
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/cool-master/bootstrap图片上传插件/201505091706/nuget/Package.nuspec
+  detection_source: cool-master/bootstrap图片上传插件/201505091706/nuget/Package.nuspec
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  version: 4.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/startbootstrap-stylish-portfolio-gh-pages/package-lock.json
+  detection_source: cool-master/bootstrap图片上传插件/201505091706/nuget/Package.nuspec
+- name: Symfony
+  description: A PHP full-stack web framework
+  website_url: http://symfony.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1197/logosf_positif_03_icon.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/PHPMailer/composer.json
+  detection_source: PHPMailer/composer.json
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 3.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/startbootstrap-stylish-portfolio-gh-pages/package-lock.json
+  detection_source: _/file/package.json
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.4.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: plyr-master/package.json
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/.eslintrc
+  detection_source: plyr-master/.eslintrc
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project
+  detection_source: Repo Metadata
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/cool-master/bootstrap图片上传插件/201505091706/nuget/Package.nuspec
+  detection_source: cool-master/bootstrap图片上传插件/201505091706/nuget/Package.nuspec
+- name: PHPUnit
+  description: Testing framework for PHP
+  website_url: https://phpunit.de/
+  version: 4.8.35
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/1616/1_WsEnddd5Y4EgEHsT054kUQ.jpeg
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/PHPMailer/composer.lock
+  detection_source: PHPMailer/composer.json
+- name: Sentry
+  description: See performance issues, fix errors faster, and optimize code health.
+  website_url: https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile
+  open_source: true
+  hosted_saas: true
+  category: Monitoring
+  sub_category: Exception Monitoring
+  image_url: https://img.stackshare.io/service/191/default_9262326592c97828a2a4299dec085a3674dd05f4.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/demo/package.json
+  detection_source: plyr-master/demo/package.json
+- name: Stylelint
+  description: A mighty, modern CSS linter
+  website_url: http://stylelint.io/
+  version: 10.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/5446/V9JsvPul_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: plyr-master/package.json
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/.travis.yml
+  detection_source: plyr-master/.travis.yml
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/demo/yarn.lock
+  detection_source: plyr-master/demo/yarn.lock
+- name: gulp
+  description: The streaming build system
+  website_url: http://gulpjs.com/
+  version: 4.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/844/iruTC031.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: plyr-master/package.json
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/_/file/package.json
+  detection_source: _/file/package.json
+- name: rollup
+  description: The next-generation JavaScript module bundler
+  website_url: http://rollupjs.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/_/file/package.json
+  detection_source: _/file/package.json
+- name: Font Awesome
+  description: The internet's most popular icon toolkit
+  website_url: https://fontawesome.com/
+  version: 5.10.2
+  open_source: true
+  hosted_saas: false
+  category: Design
+  sub_category: Fonts
+  image_url: https://img.stackshare.io/service/3244/1_Mr1Fy00XjPGNf1Kkp_hWtw_2x.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/startbootstrap-stylish-portfolio-gh-pages/package-lock.json
+  detection_source: startbootstrap-stylish-portfolio-gh-pages/package.json
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project
+  detection_source: Repo Metadata
+- name: "@babel/core"
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/@babel/core
+  version: 7.4.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: plyr-master/package.json
+- name: "@babel/preset-env"
+  description: A Babel preset for each environment
+  package_url: https://www.npmjs.com/@babel/preset-env
+  version: 7.4.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15819/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: plyr-master/package.json
+- name: "@fortawesome/fontawesome-free"
+  description: The iconic font, CSS, and SVG framework
+  package_url: https://www.npmjs.com/@fortawesome/fontawesome-free
+  version: 5.10.2
+  license: CC-BY-4.0,OFL-1.1,MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17170/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/startbootstrap-stylish-portfolio-gh-pages/package-lock.json
+  detection_source: startbootstrap-stylish-portfolio-gh-pages/package.json
+- name: ansi-colors
+  description: Easily add ANSI colors to your text and symbols in the terminal
+  package_url: https://www.npmjs.com/ansi-colors
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17880/default_3bc64391130859f94a137a7dc6cb87cd54da546b.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: plyr-master/package.json
+- name: aws-sdk
+  description: AWS SDK for JavaScript
+  package_url: https://www.npmjs.com/aws-sdk
+  version: 2.479.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16018/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: plyr-master/package.json
+  vulnerabilities:
+  - name: Prototype Pollution via file load in aws-sdk and @aws-sdk/shared-ini-file-loader
+    cve_id: CVE-2020-28472
+    cve_url: https://github.com/advisories/GHSA-rrc9-gqf8-8rwg
+    detected_date: Jan 28
+    severity: high
+    first_patched: 2.814.0
+- name: babel-eslint
+  description: Custom parser for ESLint
+  package_url: https://www.npmjs.com/babel-eslint
+  version: 10.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15803/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: plyr-master/package.json
+- name: babel-plugin-external-helpers
+  description: This plugin contains helper functions that’ll be placed at the top
+    of the generated code
+  package_url: https://www.npmjs.com/babel-plugin-external-helpers
+  version: 6.22.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15986/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/_/file/package.json
+  detection_source: _/file/package.json
+- name: babel-preset-latest
+  description: Babel preset including es2015+
+  package_url: https://www.npmjs.com/babel-preset-latest
+  version: 6.24.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16101/default_d947c1690e032a288145c7e2491999eab3ea8ede.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/_/file/package.json
+  detection_source: _/file/package.json
+- name: babelrc-rollup
+  description: Builds a babel configuration for rollup-plugin-babel by reading .babelrc
+  package_url: https://www.npmjs.com/babelrc-rollup
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17317/default_3ec53c4dad64de27b72cc81401e898b5aea82f2c.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/_/file/package.json
+  detection_source: _/file/package.json
+- name: browser-sync
+  description: Live CSS Reload &amp; Browser Syncing
+  package_url: https://www.npmjs.com/browser-sync
+  version: 2.29.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16034/default_a9b6ac3c2fe43713f9a8e43d4668d0352ad0d247.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/startbootstrap-stylish-portfolio-gh-pages/package-lock.json
+  detection_source: _/file/package.json
+- name: core-js
+  description: Standard library
+  package_url: https://www.npmjs.com/core-js
+  version: 3.1.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15869/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/demo/yarn.lock
+  detection_source: plyr-master/demo/package.json
+- name: del
+  description: Delete files and directories
+  package_url: https://www.npmjs.com/del
+  version: 4.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15907/default_a582b9fecca65f37fe68520c8f84d3bcae35db24.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: plyr-master/package.json
+- name: eslint-config-airbnb-base
+  description: Airbnb's base JS ESLint config, following our styleguide
+  package_url: https://www.npmjs.com/eslint-config-airbnb-base
+  version: 13.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15888/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: plyr-master/package.json
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: plyr-master/package.json
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.17.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: plyr-master/package.json
+- name: fancy-log
+  description: Log things, prefixed with a timestamp
+  package_url: https://www.npmjs.com/fancy-log
+  version: 1.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17353/default_c1932d441699b98abea6098c6f8f65e2acb4f5ed.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: plyr-master/package.json
+- name: gulp-autoprefixer
+  description: Prefix CSS
+  package_url: https://www.npmjs.com/gulp-autoprefixer
+  version: 6.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16090/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: plyr-master/package.json
+- name: gulp-clean-css
+  description: Minify css with clean-css
+  package_url: https://www.npmjs.com/gulp-clean-css
+  version: 4.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16301/default_3b7197abc4df3d7fa7c5292f17b2e6fb0cd1c8d4.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: plyr-master/package.json
+- name: gulp-filter
+  description: Filter files in a `vinyl` stream
+  package_url: https://www.npmjs.com/gulp-filter
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16385/default_b5c8f3c8e46d368f74a982d06d7f13291fe651ea.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: plyr-master/package.json
+- name: gulp-header
+  description: Gulp extension to add header to file
+  package_url: https://www.npmjs.com/gulp-header
+  version: 2.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16259/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: plyr-master/package.json
+- name: gulp-imagemin
+  description: Minify PNG, JPEG, GIF and SVG images
+  package_url: https://www.npmjs.com/gulp-imagemin
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16485/default_0a704f5fac0bffcf529c9a61658d0b9ddbf7504e.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: plyr-master/package.json
+- name: gulp-open
+  description: Open files and URLs with gulp
+  package_url: https://www.npmjs.com/gulp-open
+  version: 3.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17455/default_2a4dc012d9584af49ba34825451ae7a5a8d75e4b.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: plyr-master/package.json
+- name: gulp-plumber
+  description: Prevent pipe breaking caused by errors from gulp plugins
+  package_url: https://www.npmjs.com/gulp-plumber
+  version: 1.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16033/default_72d4237e6719b7d75d0307bf8b5718584fdc3425.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: plyr-master/package.json
+- name: gulp-postcss
+  description: PostCSS gulp plugin
+  package_url: https://www.npmjs.com/gulp-postcss
+  version: 8.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16282/default_5dfc1810d0882ab844578a326bb8bf19e45e7227.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: plyr-master/package.json
+- name: gulp-rename
+  description: Rename files
+  package_url: https://www.npmjs.com/gulp-rename
+  version: 1.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15895/default_e4668902f8489350db9b0fb228523a571ef05b26.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: plyr-master/package.json
+- name: gulp-replace
+  description: A string replace plugin for gulp
+  package_url: https://www.npmjs.com/gulp-replace
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16150/default_73326c44fbfa7369fd17573edb113e5d849468bc.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: plyr-master/package.json
+- name: gulp-sass
+  description: Gulp plugin for sass
+  package_url: https://www.npmjs.com/gulp-sass
+  version: 4.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16002/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: plyr-master/package.json
+- name: gulp-size
+  description: Display the size of your project
+  package_url: https://www.npmjs.com/gulp-size
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16655/default_783b9b6c17b863f264c1418b0eb831316f741afd.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: plyr-master/package.json
+- name: gulp-sourcemaps
+  description: Source map support for Gulp.js
+  package_url: https://www.npmjs.com/gulp-sourcemaps
+  version: 2.6.5
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15958/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: plyr-master/package.json
+- name: gulp-uglify
+  description: Minify files with UglifyJS
+  package_url: https://www.npmjs.com/gulp-uglify
+  version: 3.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15910/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/startbootstrap-stylish-portfolio-gh-pages/package-lock.json
+  detection_source: startbootstrap-stylish-portfolio-gh-pages/package.json
+- name: merge-stream
+  description: Create a stream that emits events from multiple other streams
+  package_url: https://www.npmjs.com/merge-stream
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16419/default_d73092129e1cde5ea9f47f22e2d7c3db7bd6da8d.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/startbootstrap-stylish-portfolio-gh-pages/package-lock.json
+  detection_source: startbootstrap-stylish-portfolio-gh-pages/package.json
+- name: npm-run-all
+  description: A CLI tool to run multiple npm-scripts in parallel or sequential
+  package_url: https://www.npmjs.com/npm-run-all
+  version: 4.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15926/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/_/file/package.json
+  detection_source: _/file/package.json
+- name: postcss-custom-properties
+  description: Use Custom Properties Queries in CSS
+  package_url: https://www.npmjs.com/postcss-custom-properties
+  version: 9.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17216/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: plyr-master/package.json
+- name: prettier-eslint
+  description: Formats your JavaScript using prettier followed by eslint --fix
+  package_url: https://www.npmjs.com/prettier-eslint
+  version: 9.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16517/default_4e3259350c525d1d859fa80a938000081d7c9db8.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: plyr-master/package.json
+- name: prettier-stylelint
+  description: Code &gt; prettier &gt; stylelint &gt; formatted code
+  package_url: https://www.npmjs.com/prettier-stylelint
+  version: 0.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17949/default_5cd4226daecf35530a193ea8bd553edbe0c69ed1.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: plyr-master/package.json
+- name: raven-js
+  description: JavaScript client for Sentry
+  package_url: https://www.npmjs.com/raven-js
+  version: 3.27.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18302/default_d05de2d31ff2708c984b6c11ea3c9ff07c2a4764.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/demo/yarn.lock
+  detection_source: plyr-master/demo/package.json
+- name: remark-cli
+  description: CLI to process Markdown with remark using plugins
+  package_url: https://www.npmjs.com/remark-cli
+  version: 6.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16755/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: plyr-master/package.json
+- name: remark-validate-links
+  description: Remark plugin to validate links to headings and files
+  package_url: https://www.npmjs.com/remark-validate-links
+  version: 8.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18530/default_00c720c5ec8a12b4c0fc580060c1d53f3b83f05c.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: plyr-master/package.json
+- name: rollup-plugin-babel
+  description: Seamless integration between Rollup and Babel
+  package_url: https://www.npmjs.com/rollup-plugin-babel
+  version: 4.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15877/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: _/file/package.json
+- name: rollup-plugin-commonjs
+  description: Convert CommonJS modules to ES2015
+  package_url: https://www.npmjs.com/rollup-plugin-commonjs
+  version: 10.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15873/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: _/file/package.json
+- name: rollup-plugin-node-resolve
+  description: Bundle third-party dependencies in node_modules
+  package_url: https://www.npmjs.com/rollup-plugin-node-resolve
+  version: 5.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15859/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: _/file/package.json
+- name: rollup-plugin-uglify
+  description: Rollup plugin to minify generated bundle
+  package_url: https://www.npmjs.com/rollup-plugin-uglify
+  version: 2.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15972/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/_/file/package.json
+  detection_source: _/file/package.json
+- name: rollup-watch
+  description: Watch files for changes and perform incremental rebuilds with Rollup
+  package_url: https://www.npmjs.com/rollup-watch
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16366/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/_/file/package.json
+  detection_source: _/file/package.json
+- name: stylelint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/stylelint-config-prettier
+  version: 5.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16896/default_e65289f03a07faa8d49ce16c483f18c4f8a98db9.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: plyr-master/package.json
+- name: stylelint-config-recommended
+  description: Recommended shareable config for stylelint
+  package_url: https://www.npmjs.com/stylelint-config-recommended
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17664/default_551bd6e1eb9aebdd20755ea11f70c7494c135ca4.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: plyr-master/package.json
+- name: stylelint-order
+  description: A collection of order related linting rules for stylelint
+  package_url: https://www.npmjs.com/stylelint-order
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16709/default_9b37c4b9479b5cf61478ac117da829ccdd0ed0a0.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: plyr-master/package.json
+- name: stylelint-scss
+  description: A collection of SCSS specific rules for stylelint
+  package_url: https://www.npmjs.com/stylelint-scss
+  version: 3.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16626/default_9012166d3e51cea5db6b4e69c80ace1c50b7509d.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: plyr-master/package.json
+- name: through2
+  description: A tiny wrapper around Node.js streams.Transform
+  package_url: https://www.npmjs.com/through2
+  version: 2.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15948/default_fdb56d0865cbc86d9157d5e33f9313d760ed0e83.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/plyr-master/yarn.lock
+  detection_source: plyr-master/package.json
+- name: doctrine/annotations
+  description: Docblock Annotations Parser
+  package_url: https://packagist.org/doctrine/annotations
+  version: 1.2.7
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/PHPMailer/composer.lock
+  detection_source: PHPMailer/composer.json
+- name: jms/serializer
+  description: Library for
+  package_url: https://packagist.org/jms/serializer
+  version: 0.16.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/PHPMailer/composer.lock
+  detection_source: PHPMailer/composer.json
+- name: phpdocumentor/phpdocumentor
+  description: Documentation Generator for PHP
+  package_url: https://packagist.org/phpdocumentor/phpdocumentor
+  version: 2.9.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/PHPMailer/composer.lock
+  detection_source: PHPMailer/composer.json
+- name: phpunit/phpunit
+  description: The PHP Unit Testing framework
+  package_url: https://packagist.org/phpunit/phpunit
+  version: 4.8.35
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/PHPMailer/composer.lock
+  detection_source: PHPMailer/composer.json
+- name: symfony/debug
+  description: Provides tools to ease debugging PHP code
+  package_url: https://packagist.org/symfony/debug
+  version: 2.8.18
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/PHPMailer/composer.lock
+  detection_source: PHPMailer/composer.json
+- name: symfony/filesystem
+  description: Provides basic utilities for the filesystem
+  package_url: https://packagist.org/symfony/filesystem
+  version: 2.8.18
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/PHPMailer/composer.lock
+  detection_source: PHPMailer/composer.json
+- name: symfony/translation
+  description: Provides tools to internationalize your application
+  package_url: https://packagist.org/symfony/translation
+  version: 2.8.18
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/PHPMailer/composer.lock
+  detection_source: PHPMailer/composer.json
+- name: symfony/yaml
+  description: Loads and dumps YAML files
+  package_url: https://packagist.org/symfony/yaml
+  version: 2.8.18
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/PHPMailer/composer.lock
+  detection_source: PHPMailer/composer.json
+- name: zendframework/zend-cache
+  description: Caching implementation with a variety of storage options
+  package_url: https://packagist.org/zendframework/zend-cache
+  version: 2.5.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/PHPMailer/composer.lock
+  detection_source: PHPMailer/composer.json
+- name: zendframework/zend-config
+  description: Provides a nested object property based user interface for accessing
+    this configuration data within application code
+  package_url: https://packagist.org/zendframework/zend-config
+  version: 2.5.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/PHPMailer/composer.lock
+  detection_source: PHPMailer/composer.json
+- name: zendframework/zend-eventmanager
+  description: Trigger and listen to events within a PHP application
+  package_url: https://packagist.org/zendframework/zend-eventmanager
+  version: 2.5.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/PHPMailer/composer.lock
+  detection_source: PHPMailer/composer.json
+- name: zendframework/zend-filter
+  description: Programmatically filter and normalize data and files
+  package_url: https://packagist.org/zendframework/zend-filter
+  version: 2.5.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/PHPMailer/composer.lock
+  detection_source: PHPMailer/composer.json
+- name: zendframework/zend-i18n
+  description: Provide translations for your application
+  package_url: https://packagist.org/zendframework/zend-i18n
+  version: 2.5.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/PHPMailer/composer.lock
+  detection_source: PHPMailer/composer.json
+- name: zendframework/zend-json
+  description: Provides convenience methods for serializing native PHP to JSON and
+    decoding JSON to native PHP
+  package_url: https://packagist.org/zendframework/zend-json
+  version: 2.5.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/PHPMailer/composer.lock
+  detection_source: PHPMailer/composer.json
+- name: zendframework/zend-math
+  description: Create cryptographically secure pseudo-random numbers
+  package_url: https://packagist.org/zendframework/zend-math
+  version: 2.5.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/PHPMailer/composer.lock
+  detection_source: PHPMailer/composer.json
+- name: zendframework/zend-serializer
+  description: Serialize and deserialize PHP structures to a variety of representations
+  package_url: https://packagist.org/zendframework/zend-serializer
+  version: 2.5.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/PHPMailer/composer.lock
+  detection_source: PHPMailer/composer.json
+- name: zendframework/zend-servicemanager
+  description: Factory-Driven Dependency Injection Container
+  package_url: https://packagist.org/zendframework/zend-servicemanager
+  version: 2.5.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/PHPMailer/composer.lock
+  detection_source: PHPMailer/composer.json
+- name: zendframework/zend-stdlib
+  description: SPL extensions, array utilities, error handlers, and more
+  package_url: https://packagist.org/zendframework/zend-stdlib
+  version: 2.5.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/2lambda123/COCA-COLA-Malaysia-Human-Resource-Automation-Project/blob/master/PHPMailer/composer.lock
+  detection_source: PHPMailer/composer.json
